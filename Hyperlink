@@ -1,0 +1,7 @@
+<a href="https://www.example.com">Visit Example</a>
+
+<a> is the anchor tag.
+
+href is the attribute that holds the URL (link address).
+
+The text between <a> and </a> is what users click.
