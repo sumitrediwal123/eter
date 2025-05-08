@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Introduction</title>
+</head>
+<body>
+
+  <!-- Main heading -->
+  <h1>My Introduction</h1>
+
+  <!-- Simple paragraph about yourself -->
+  <p>Hello! My name is [Your Name].</p>
+
+  <!-- Section about you -->
+  <h2>About Me</h2>
+  <p>I am a student who loves learning about technology and building new things.</p>
+
+  <!-- Interests with line breaks -->
+  <h2>My Interests</h2>
+  <p>I enjoy:<br>
+  - Coding<br>
+  - Robotics<br>
+  - Reading books<br>
+  - Playing games</p>
+
+  <!-- Goals section -->
+  <h2>My Goals</h2>
+  <p>I want to improve my skills and become a creative problem solver.</p>
+
+  <!-- Comment: More details can be added later -->
+  <!-- <p>This section is under construction.</p> -->
+
+</body>
+</html>
