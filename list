@@ -1,0 +1,21 @@
+1. Ordered List (<ol>)
+<ol>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+</ol>
+
+2. Unordered List (<ul>)
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+</ul>
+
+3. Definition List (<dl>)
+<dl>
+  <dt>Term 1</dt>
+  <dd>Definition for Term 1</dd>
+  <dt>Term 2</dt>
+  <dd>Definition for Term 2</dd>
+</dl>
